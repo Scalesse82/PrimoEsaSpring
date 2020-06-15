@@ -14,6 +14,8 @@ le parole palindrome sono : <br>
    <c:forEach items="${lista}" var="item">
     ${item}<br>
   </c:forEach>
+  
+  
       
 
 
